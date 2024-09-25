@@ -1,0 +1,5 @@
+com\project\TravelMate\model\User.class
+com\project\TravelMate\repository\UserRepository.class
+com\project\TravelMate\TravelMateApplication.class
+com\project\TravelMate\controller\LoginController.class
+com\project\TravelMate\service\UserService.class
